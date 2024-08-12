@@ -57,7 +57,7 @@ You must have [Visual Studio Code](https://code.visualstudio.com/download) insta
 2. Open gitbash and paste the following command
 
 ```bash
-git clone https://github.com/ahxansubhani/playwright-automation-framework-TDD.git
+git clone https://github.com//abdullah-aabi/playwright-pom-ui-TDDTests-for-blockchain-webapp.git
 ```
 
 ## Running project
