@@ -21,8 +21,6 @@ Playwright TDD Test suite for Blockchain WebApp - A Web3 blockchain analytics so
 
    - [x] **Automatically install the necesary tools. Note that this will also install Chocolatey. The script will pop-up in a new window after the installation completes.**
 
-![nodeInstall](https://user-images.githubusercontent.com/60171460/157139770-d00bb969-9b36-4179-9dd2-ec5bf3fbd89a.PNG)
-
 #### Browsers
 
 Installed:
